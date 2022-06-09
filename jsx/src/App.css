@@ -1,0 +1,21 @@
+.title{
+  color: bisque;
+}
+.red{ 
+  text-decoration: underline;
+}
+h1{
+  color:rgb(164, 209, 248);
+  padding-left: 50px;
+  
+}
+.App{
+  background-color: azure;
+  margin: 30px;
+}
+.img2{
+  margin-left: 300px;
+  max-width: 150px;
+}
+
+
